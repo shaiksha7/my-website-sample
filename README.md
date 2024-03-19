@@ -1,2 +1,2 @@
-mywebsite
+Mywebsite
 this is my website
