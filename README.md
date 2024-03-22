@@ -3,6 +3,7 @@ My Website
 this is my website
    
    Screenshots
+<<<<<<< HEAD
    <br>
    <img src="/images/s1.png">
    <br>
@@ -23,3 +24,6 @@ this is my website
    <img src="/images/Screenshot 2024-03-19 164933.png">
 
    <img src="/images/Screenshot 2024-03-19 164948.png">
+=======
+   
+>>>>>>> 1046c828dec64b0ad67c2ef6041fdc3995af9ebe
