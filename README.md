@@ -3,7 +3,6 @@ My Website
 this is my website
    
    Screenshots
-<<<<<<< HEAD
    <br>
    <img src="/images/s1.png">
    <br>
